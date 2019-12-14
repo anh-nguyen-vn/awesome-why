@@ -50,3 +50,7 @@ Resource Collection
 >一个帮助开发者成长的社区
 
 [URL](https://zhuanlan.zhihu.com/p/27309864)
+
+10 给 Android 开发者的 RxJava 详解
+
+[URL](http://gank.io/post/560e15be2dca930e00da1083
