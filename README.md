@@ -37,10 +37,16 @@ Resource Collection
 
 07 React-Native学习指南
 
-[地址](https://github.com/reactnativecn/react-native-guide)
+[URL](https://github.com/reactnativecn/react-native-guide)
 
 08 Android源码设计模式分析项目
 
 >该系列文章已经重新深度整理并出版
 
-[地址](https://github.com/simple-android-framework/android_design_patterns_analysis)
+[URL](https://github.com/simple-android-framework/android_design_patterns_analysis)
+
+09 设计模式 - 收藏集 - 掘金
+
+>一个帮助开发者成长的社区
+
+[URL](https://zhuanlan.zhihu.com/p/27309864)
